@@ -10,43 +10,43 @@ This repository is a curated collection of resources that's helped me break into
 
 | Site | Description |
 |---|---|
-| [hiring.cafe](https://hiring.cafe/) | Aggregates listings straight from company career pages with clean filtering — good for cutting through recruiter noise. |
-| [Levels.fyi Jobs](https://www.levels.fyi/jobs?locationSlug=united-states) | Pairs listings with Levels.fyi's crowdsourced salary data so you can gauge compensation before applying. |
-| [Indeed](https://www.indeed.com/) | The largest general job board; useful for volume and casting a wide net across all experience levels. |
-| [ZipRecruiter](https://www.ziprecruiter.com/jobseeker/home) | Broad job board with one-click apply and AI-matched recommendations. |
-| [Foorilla](https://foorilla.com/) | Aggregates job listings across many niche and industry-specific boards, including tech and security. |
-| [Brian's Job Search](https://briansjobsearch.com/) | A hand-curated list of cybersecurity-focused job boards and resources maintained by the community. |
-| [New Grad Jobs – Cybersecurity](https://www.newgrad-jobs.com/entry-level-jobs/cyber-security) | Filters specifically for entry-level and new-grad cybersecurity roles. |
-| [Skillsire](https://skillsire.com/) | Tech-focused job board connecting candidates with roles across IT and security. |
+| [hiring.cafe](https://hiring.cafe/) | Aggregates listings straight from company career pages with clean filtering |
+| [Levels.fyi Jobs](https://www.levels.fyi/jobs?locationSlug=united-states) | Pairs listings with Levels.fyi's crowdsourced salary data so you can gauge compensation before applying |
+| [Indeed](https://www.indeed.com/) | The largest general job board which useful for volume and casting a wide net across all experience levels |
+| [ZipRecruiter](https://www.ziprecruiter.com/jobseeker/home) | Broad job board with one-click apply and AI-matched recommendations |
+| [Foorilla](https://foorilla.com/) | Aggregates job listings across many niche and industry-specific boards, including tech and security |
+| [Brian's Job Search](https://briansjobsearch.com/) | A hand-curated list of cybersecurity-focused job boards and resources maintained by the community |
+| [New Grad Jobs – Cybersecurity](https://www.newgrad-jobs.com/entry-level-jobs/cyber-security) | Filters specifically for entry-level and new-grad cybersecurity roles |
+| [Skillsire](https://skillsire.com/) | Tech-focused job board connecting candidates with roles across IT and security |
 
 ### Remote-Only
 
 | Site | Description |
 |---|---|
-| [Remote Rocketship](https://www.remoterocketship.com/?page=1&sort=DateAdded) | Remote-only job board sorted by most recently added — good for daily checking. |
+| [Remote Rocketship](https://www.remoterocketship.com/?page=1&sort=DateAdded) | Remote-only job board sorted by most recently added |
 
 ### Government
 
 | Site | Description |
 |---|---|
-| [ClearanceJobs](https://www.clearancejobs.com) | The go-to board for cleared and clearance-eligible cybersecurity/defense roles. |
-| [GovernmentJobs.com](https://www.governmentjobs.com/) | Listings across state, county, and municipal government agencies. |
-| [Careers in Government](https://www.careersingovernment.com/) | Broad public-sector job board covering federal, state, and local roles. |
-| [USAJOBS](https://www.usajobs.gov/) | The official job board for the U.S. federal government. |
+| [ClearanceJobs](https://www.clearancejobs.com) | The go-to board for cleared and clearance-eligible cybersecurity/defense roles |
+| [GovernmentJobs.com](https://www.governmentjobs.com/) | Listings across state, county, and municipal government agencies |
+| [Careers in Government](https://www.careersingovernment.com/) | Broad public-sector job board covering federal, state, and local roles |
+| [USAJOBS](https://www.usajobs.gov/) | The official job board for the U.S. federal government |
 
 ---
 
 ## Resume Tools
 
-- **[Jobscan](https://www.jobscan.co/)** — Scans your resume against a job description to check ATS (applicant tracking system) compatibility and keyword match.
-- **[r/cybersecurity Resume Reviews](https://www.reddit.com/r/cybersecurity/)** — Community members regularly post resumes for free peer feedback (check pinned threads/rules first).
-- **[Antisyphon Training Resume Reviews](https://www.antisyphontraining.com/)** — Occasionally runs free/low-cost resume review events for the infosec community.
+- **[Jobscan](https://www.jobscan.co/)** - Scans your resume against a job description to check ATS (applicant tracking system) compatibility and keyword match
+- **[r/cybersecurity Resume Reviews](https://www.reddit.com/r/cybersecurity/)** - Community members regularly post resumes for free peer feedback
+- **[Cyber Jobs Hunting Server](https://discord.com/invite/cyber-jobs-hunting-777881374555897886)** - Cybersecurity-specific resume reviews and interview preparation assistance 
 
 ## Interview Prep
 
-- **[TryHackMe](https://tryhackme.com/)** — Hands-on labs to build practical skills that come up in technical interviews and whiteboard challenges.
-- **[Cyberseek](https://www.cyberseek.org/)** — Interactive career pathway tool showing common roles, required skills, and typical progressions — useful for framing your interview narrative.
-- **[Glassdoor Interview Questions](https://www.glassdoor.com/)** — Search a company/role to see real interview questions past candidates have shared.
+- **[TCM Security Soft Skills Course](https://tcm-sec.com/academy/soft-skills-for-the-job-market/)** - Course designed to equip job seekers with essential soft skills, communication techniques, and job application strategies 
+- **[Cyberseek](https://www.cyberseek.org/)** - Interactive career pathway tool showing common roles, required skills, and typical progressions
+- **[Glassdoor Interview Questions](https://www.glassdoor.com/)** - Search a company/role to see real interview questions past candidates have shared.
 
 ## Certification Roadmaps
 
@@ -69,6 +69,3 @@ This repository is a curated collection of resources that's helped me break into
 - **[Cyversity](https://cyversity.org/)** — Nonprofit focused on mentorship and scholarships for underrepresented groups in cybersecurity.
 
 ---
-
-*This repo is a living document — categories and links will be updated as the community grows.*
-
