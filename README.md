@@ -46,26 +46,22 @@ This repository is a curated collection of resources that's helped me break into
 
 - **[TCM Security Soft Skills Course](https://tcm-sec.com/academy/soft-skills-for-the-job-market/)** - Course designed to equip job seekers with essential soft skills, communication techniques, and job application strategies 
 - **[Cyberseek](https://www.cyberseek.org/)** - Interactive career pathway tool showing common roles, required skills, and typical progressions
-- **[Glassdoor Interview Questions](https://www.glassdoor.com/)** - Search a company/role to see real interview questions past candidates have shared.
+- **[Glassdoor Interview Questions](https://www.glassdoor.com/)** - Search a company/role to see real interview questions past candidates have shared
 
 ## Certification Roadmaps
 
-- **[Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** — An interactive chart of hundreds of IT security certifications with basic info and links, organized by domain and skill level, to help you plan a continuing-education path.
-- **[CyberSeek Career Pathway](https://www.cyberseek.org/pathway.html)** — Maps common entry, mid, and advanced cybersecurity roles alongside the certifications typically associated with each.
-- **[NICE Framework (NIST)](https://niccs.cisa.gov/workforce-development/nice-framework)** — The official U.S. government framework categorizing cybersecurity work roles and the skills/knowledge tied to each.
+- **[Certification Roadmap](https://dragkob.com/security-certification-roadmap/)** - This roadmap lists all cyber certifications across their areas of speciality arranged by their level of difficulty
+- **[CyberSeek Career Pathway](https://www.cyberseek.org/pathway.html)** - Maps common entry, mid, and advanced cybersecurity roles alongside the certifications typically associated with each
+- **[NICE Framework (NIST)](https://niccs.cisa.gov/workforce-development/nice-framework)** - The official U.S. government framework categorizing cybersecurity work roles and the skills/knowledge tied to each
 
 ## Networking Communities
 
-- **[r/cybersecurity](https://www.reddit.com/r/cybersecurity/)** — Large, active subreddit for industry news, career advice, and Q&A.
-- **[r/AskNetsec](https://www.reddit.com/r/AskNetsec/)** — Focused on technical questions and discussion.
-- **[InfoSec Prep Discord](https://infosecprep.com/)** — Study group community centered on certification prep and mentorship.
-- **[WiCyS (Women in CyberSecurity)](https://www.wicys.org/)** — Professional community and conference network with local chapters.
-- **[BSides Events](http://www.securitybsides.com/)** — Community-run security conferences held worldwide — great for local, low-cost networking.
+- **[r/cybersecurity](https://www.reddit.com/r/cybersecurity/)** - Large, active subreddit for industry news, career advice, and Q&A
+- **[r/AskNetsec](https://www.reddit.com/r/AskNetsec/)** - Focused on technical questions and discussion
+- **[InfoSec Prep Discord](https://infosecprep.com/)** - Study group community centered on certification prep and mentorship
 
 ## Mentorship Programs
 
-- **[WiCyS Mentorship Program](https://www.wicys.org/programs/mentoring/)** — Structured mentorship for women pursuing cybersecurity careers.
-- **[ISC2 Mentorship Program](https://www.isc2.org/landing/mentorship-program)** — Pairs ISC2 members/candidates with experienced mentors in the field.
-- **[Cyversity](https://cyversity.org/)** — Nonprofit focused on mentorship and scholarships for underrepresented groups in cybersecurity.
-
+- **[ISC2 Mentorship Program](https://www.isc2.org/landing/mentorship-program)** - Pairs ISC2 members/candidates with experienced mentors in the field
+- **[MentorCruise Cybersecurity Mentorship Services](http://mentorcruise.com/filter/cybersecurity/)** - Pairs users with specific experts in the field of their choice
 ---
